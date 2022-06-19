@@ -12,10 +12,10 @@ jsproxy_config({
 
   // 节点配置
   node_map: {
-    'demo-sg': {
-      label: '演示服务-新加坡节点',
+    'Pencil': {
+      label: 'JustHost DallasColo (Tier-3)',
       lines: {
-        'node-aliyun-sg.etherdream.com:8443': 1,
+        '193.233.204.229:8443': 1,
       },
     },
     'mysite': {
