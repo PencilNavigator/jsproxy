@@ -15,7 +15,7 @@ jsproxy_config({
     'Pencil': {
       label: 'JustHost DallasColo (Tier-3)',
       lines: {
-        '193.233.204.229:8443': 1,
+        '193.233.204.229:8080': 1,
       },
     },
     'mysite': {
